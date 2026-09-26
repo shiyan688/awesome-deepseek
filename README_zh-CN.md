@@ -86,6 +86,7 @@
 
 ### 开发工具
 - [⚡ API 快速入门](https://api-docs.deepseek.com/) - 5 分钟入门
+- [📚 dsh-paperdesk](https://github.com/shiyan688/dsh-paperdesk) - DeepSeek Harness 的论文工作台插件：arXiv 检索、本地文库（题录 / PDF / 全文）、L1-L2-L3 三层精读笔记；单包双半区，无构建步骤，运行时零第三方依赖
 
 ### 集成
 - [🤗 Hugging Face 模型](https://huggingface.co/deepseek-ai) - 模型中心集成

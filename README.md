@@ -86,6 +86,7 @@ English | [简体中文](README_zh-CN.md)
 
 ### Development Tools
 - [⚡ API Quickstart](https://api-docs.deepseek.com/) - Get started in 5 minutes
+- [📚 dsh-paperdesk](https://github.com/shiyan688/dsh-paperdesk) - A paper workbench plugin for DeepSeek Harness: arXiv search, a local library (metadata / PDF / full text), and L1-L2-L3 three-layer reading notes. Host and browser halves in one package, no build step, zero runtime dependencies
 
 ### Integrations
 - [🤗 Hugging Face Models](https://huggingface.co/deepseek-ai) - Model hub integration
